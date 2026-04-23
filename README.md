@@ -18,3 +18,7 @@ You can now execute it using:
 For Windows users:
 
 Open your terminal, run the "bash" command, then follow the same steps as for the Linux version.
+
+When in the game, to select the level you want to play, type its name and press Enter.
+
+For example, if you want to play level 1, type "niveau1" and press Enter.
